@@ -20,8 +20,6 @@ type: page
 
 * GitHub：[ThomakLee](https://github.com/thomaklee)
 * email：thomaklee@gmail.com
-* [知乎](https://www.zhihu.com/people/thomak)
-* [Twitter](https://twitter.com/thomaklee)
 
 ## 关于本站
 
